@@ -1,2 +1,2 @@
 # sdegen95.github.io
-Webpage Sebastian Degen
+Webpage of Sebastian Degen
